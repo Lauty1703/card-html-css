@@ -1,0 +1,49 @@
+    #main {
+        margin: 0 auto;
+    }
+
+    .fs-view {
+        font-size: 15px;
+        font-weight: 700;
+    }
+
+    .img-view {
+        height: 30px;
+    }
+
+    .line {
+        border-top: 1px solid hsl(214, 25%, 48%);
+    }
+
+    .bg-eth {
+        color: hsl(178, 100%, 50%);
+    }
+
+    .bg-text-description {
+        color: hsl(214, 25%, 48%);
+    }
+
+    .title-text {
+        font-weight: 700;
+    }
+
+    .bg-card {
+        background-color: hsl(216, 50%, 16%)
+    }
+
+    .img-card {
+        border-radius: 30px;
+    }
+
+    .fondo {
+        background: hsl(217, 54%, 11%)
+    }
+
+    .attribution {
+        font-size: 11px;
+        text-align: center;
+    }
+
+    .attribution a {
+        color: hsl(228, 45%, 44%);
+    }
